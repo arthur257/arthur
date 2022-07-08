@@ -2,11 +2,32 @@ body {
      background: #CCCCCC
 }
 
+#BANNER {
+	width: 100%;
+}
+
+
+h1{
+	text-align: center;
+}
+
 p {
 	text-align: center;
 	
 }
 
-strong{
-	color: orange;
+#missao {
+	font-size:20px;
+}
+
+em strong{
+	color: #FFA500;
+}
+
+.itens{
+	font-style: italic
+}
+
+.benefícios {
+	background: #ffffff
 }
