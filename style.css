@@ -1,14 +1,22 @@
 body {
-     background: #CCCCCC
+     
 }
 
 #BANNER {
 	width: 100%;
 }
 
+.principal{
+	background: #CCCCCC;
+	padding:  30px;	
+}
 
-h1{
-	text-align: center;
+.titulo-principal{
+	padding-left: 20px;
+}
+
+.c-amv{
+	text-align: center
 }
 
 p {
@@ -29,5 +37,14 @@ em strong{
 }
 
 .benefícios {
-	background: #ffffff
+	background: #ffffff;
+}
+
+
+ul{
+	display: inline-block;
+}
+
+.imagebenefícios{
+	width:50%;
 }
